@@ -1,11 +1,11 @@
-[![20220710-040738.png](https://i.postimg.cc/FHmK8tV5/20220710-040738.png)](https://postimg.cc/qzb065Fj)
+[![images-27.jpg](https://i.postimg.cc/d3tB4NN8/images-27.jpg)](https://postimg.cc/5YTLtgV0)
 
 
 # Install koncol
     $ pkg install python git -y
     $ git clone https://github.com/JoeDevXX2K/gabut
-    $ git pull
     $ cd $HOME/gabut
+    $ git pull
     $ python gabut.py
 
 
